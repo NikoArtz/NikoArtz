@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NikoArtz
 - 👀 I’m interested in modern techniques of software development.
-- 🌱 I’m currently learning Java and Spring.
 - 📫 How to reach me https://www.linkedin.com/in/nikoartz/
 
 <!---
